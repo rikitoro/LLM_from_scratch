@@ -1,3 +1,4 @@
 /.venv
 the-verdict.txt
 /__pycache__/
+*.pth
