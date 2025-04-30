@@ -3,3 +3,4 @@ the-verdict.txt
 /__pycache__/
 *.pth
 =*
+gpt2/
