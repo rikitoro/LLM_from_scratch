@@ -4,3 +4,4 @@ the-verdict.txt
 *.pth
 =*
 gpt2/
+sms_spam_collection/
